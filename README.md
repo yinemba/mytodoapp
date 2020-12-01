@@ -1,4 +1,4 @@
-# html
+### html
 
 ```<!DOCTYPE html>
 <html lang="en">
@@ -21,7 +21,7 @@
 <script src="todo.js"></script>
 </html>
 
-# js
+### js
 
 ```let ourForm = document.getElementById('ourForm');
 let ourField = document.getElementById('ourField');
@@ -43,7 +43,7 @@ function deleteItem(elementToDelete) {
     elementToDelete.parentElement.remove()
 } 
 
-# css
+### css
 ```body {
   background-color: rgb(234, 239, 241);
 }
