@@ -1,6 +1,6 @@
 # html
 
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -23,7 +23,7 @@
 
 # js
 
-let ourForm = document.getElementById('ourForm');
+```let ourForm = document.getElementById('ourForm');
 let ourField = document.getElementById('ourField');
 let ourList = document.getElementById('ourList');
 
@@ -44,7 +44,7 @@ function deleteItem(elementToDelete) {
 } 
 
 # css
-body {
+```body {
   background-color: rgb(234, 239, 241);
 }
 
